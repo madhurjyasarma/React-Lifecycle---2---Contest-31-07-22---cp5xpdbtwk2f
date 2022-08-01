@@ -1,8 +1,4 @@
-# Print when mounted
+### Counter using React
 
-
-Print to console using console.log when component is mounted.
-
-print "mounted" when component is mounted.
-
-Also do not remove the console.log statement in render.
+## View Deployment 
+https://splendid-fairy-858805.netlify.app/
